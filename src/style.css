@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Inter Bold';
+	src: url(./Inter-Bold.woff2);
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+.hello {
+	color: red;
+	background-image: url('./hero.png');
+}
